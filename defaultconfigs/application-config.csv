@@ -1,0 +1,2 @@
+"identifier";"workpath";"poller-processes";"logfile";"logging-level";"address-configuration-file";"resultlog-file"
+"debug";"www-data";2;"www-data/debug.log";"debug";"defaultconfigs/debug-polling-config.csv";"www-data/result.csv"

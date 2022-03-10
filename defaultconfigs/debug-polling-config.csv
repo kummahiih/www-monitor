@@ -1,0 +1,3 @@
+"identifier";"address";"polling-interval";"timeout";"validation-regexp"
+"Google search";"http://www.google.fi/";10;15;"Google"
+"Google mail";"https://mail.google.com/mail/";5;15;"Sign in"
